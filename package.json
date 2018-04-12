@@ -1,0 +1,27 @@
+{
+  "name": "webhook.v2.demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coding/Webhook.v2.Demo.git"
+  },
+  "keywords": [
+    "Coding.net",
+    "Webhook"
+  ],
+  "author": "wusisu <i@wusisu.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Coding/Webhook.v2.Demo/issues"
+  },
+  "homepage": "https://github.com/Coding/Webhook.v2.Demo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
